@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79f52d50.css",
+    "main.js": "/static/js/main.ccf4e7f3.js",
+    "static/media/sukraj.JPG": "/static/media/sukraj.c3ce395951877358ed49.JPG",
+    "static/media/newdent.jpg": "/static/media/newdent.37b023861fc846d495b2.jpg",
+    "static/media/img2.jpeg": "/static/media/img2.b9f05d4f8e4513f91a7f.jpeg",
+    "static/media/img.jpeg": "/static/media/img.77847b7d7c29994ea932.jpeg",
+    "index.html": "/index.html",
+    "main.79f52d50.css.map": "/static/css/main.79f52d50.css.map",
+    "main.ccf4e7f3.js.map": "/static/js/main.ccf4e7f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f52d50.css",
+    "static/js/main.ccf4e7f3.js"
+  ]
+}
